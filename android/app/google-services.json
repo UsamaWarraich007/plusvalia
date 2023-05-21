@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "737047548024",
+    "project_id": "plusvalia-97638",
+    "storage_bucket": "plusvalia-97638.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737047548024:android:9bd579faca852df1da5d8d",
+        "android_client_info": {
+          "package_name": "com.example.plusvalia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737047548024-c96r6fqp2hj7sq1rk732sfkdm4nsrsgq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Daws0z7Bf_VmaNL9mB-UT7mrPqnCWTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737047548024-c96r6fqp2hj7sq1rk732sfkdm4nsrsgq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
